@@ -1,5 +1,6 @@
 # Ex.No: 05  IMPLEMENTATION OF TIME SERIES ANALYSIS AND DECOMPOSITION
-### Date: 
+### Developed by: NARENDRAN B
+### RegisterNumber: 212222240069
 
 
 ### AIM:
